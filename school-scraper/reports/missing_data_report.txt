@@ -1,0 +1,106 @@
+School Scraper - Missing Data Report
+Generated: 2026-06-12T21:55:28
+
+Total schools collected: 228
+
+=== Duplicates Removed ===
+- Duplicate removed: LearningSpring School (https://www.privateschoolreview.com/learningspring-school-profile/10003) from New York, NY
+
+=== Schools With Missing Fields (48) ===
+- Transfiguration School: missing website
+- Alexander Robertson School (Closed 2025): missing website, phone
+- AltSchool Union Square (Closed 2019): missing website, phone
+- Annunciation School (Closed 2010): missing website, phone
+- Ascension School (Closed 2013): missing website, phone
+- Blue School (Closed 2025): missing website, phone
+- The Children's Academy (Closed 2018): missing website, phone
+- Christ Crusader Academy (Closed 2006): missing website, phone
+- Fusion Academy Park Avenue (Closed 2022): missing website, phone
+- Guardian Angel School (Closed 2025): missing website, phone
+- Harlem International Community School (Closed 2021): missing website, phone
+- Holy Name Of Jesus School (Closed 2010): missing website, phone
+- Immaculate Conception School (Closed 2024): missing website, phone
+- International Academy Of New York (Closed 2025): missing phone
+- Ivdu School (Closed 2013): missing website, phone
+- Mary Help Of Christians (Closed 2006): missing website, phone
+- Nativity Mission School (Closed 2015): missing website, phone
+- Nazareth Nursery (Closed 2014): missing website, phone
+- New York Plaza KinderCare (Closed 2025): missing website, phone
+- Northside Therapeutic Early Childhood Center (Closed 2025): missing website, phone
+- Our Lady Of Good Counsel (Closed 2004): missing website, phone
+- Our Lady Of Pompeii School (Closed 2024): missing website, phone
+- Our Lady Of Sorrows School (Closed 2006): missing website, phone
+- Our Lady Queen Of Martyrs (Closed 2024): missing website, phone
+- Pono (Closed 2025): missing website, phone
+- Portfolio School (Closed 2025): missing website, phone
+- Rice High School (Closed 2010): missing website, phone
+- St. Agnes Boys High School (Closed 2010): missing website, phone
+- St. Aloysius School (Closed 2014): missing website, phone
+- St. Ann School (Closed 2024): missing website, phone
+- St. Brigid School (Closed 2022): missing website, phone
+- St. Catherine Of Genoa Grammar School (Closed 2006): missing website, phone
+- St. Columbia School (Closed 2016): missing website, phone
+- St. Gregory The Great School (Closed 2022): missing website, phone
+- St. James School (Closed 2010): missing website, phone
+- St. Joseph Of The Holy Family (Closed 2010): missing website, phone
+- Manhattan Country School: missing website
+- Saint Ignatius Loyola School: missing website
+- Bais Yaakov Bnos Aliya: missing website
+- Beth Jacob Parochial School: missing website
+- Cathedral Parkway Towers Preschool: missing website
+- Central Harlem Montessori School: missing website
+- Downtown Little School: missing website
+- Emily N Carey High School: missing website
+- Gan Aliya: missing website
+- The King's Academy: missing website
+- Pathways Childrens Services: missing website
+- St. Benedict Day Nursery: missing website
+
+=== Missing Website (47) ===
+- Transfiguration School
+- Alexander Robertson School (Closed 2025)
+- AltSchool Union Square (Closed 2019)
+- Annunciation School (Closed 2010)
+- Ascension School (Closed 2013)
+- Blue School (Closed 2025)
+- The Children's Academy (Closed 2018)
+- Christ Crusader Academy (Closed 2006)
+- Fusion Academy Park Avenue (Closed 2022)
+- Guardian Angel School (Closed 2025)
+- Harlem International Community School (Closed 2021)
+- Holy Name Of Jesus School (Closed 2010)
+- Immaculate Conception School (Closed 2024)
+- Ivdu School (Closed 2013)
+- Mary Help Of Christians (Closed 2006)
+- Nativity Mission School (Closed 2015)
+- Nazareth Nursery (Closed 2014)
+- New York Plaza KinderCare (Closed 2025)
+- Northside Therapeutic Early Childhood Center (Closed 2025)
+- Our Lady Of Good Counsel (Closed 2004)
+- Our Lady Of Pompeii School (Closed 2024)
+- Our Lady Of Sorrows School (Closed 2006)
+- Our Lady Queen Of Martyrs (Closed 2024)
+- Pono (Closed 2025)
+- Portfolio School (Closed 2025)
+- Rice High School (Closed 2010)
+- St. Agnes Boys High School (Closed 2010)
+- St. Aloysius School (Closed 2014)
+- St. Ann School (Closed 2024)
+- St. Brigid School (Closed 2022)
+- St. Catherine Of Genoa Grammar School (Closed 2006)
+- St. Columbia School (Closed 2016)
+- St. Gregory The Great School (Closed 2022)
+- St. James School (Closed 2010)
+- St. Joseph Of The Holy Family (Closed 2010)
+- Manhattan Country School
+- Saint Ignatius Loyola School
+- Bais Yaakov Bnos Aliya
+- Beth Jacob Parochial School
+- Cathedral Parkway Towers Preschool
+- Central Harlem Montessori School
+- Downtown Little School
+- Emily N Carey High School
+- Gan Aliya
+- The King's Academy
+- Pathways Childrens Services
+- St. Benedict Day Nursery
